@@ -80,3 +80,5 @@
 반성 : 시간이 조금 더 걸리더라도 처음에 계획한 비동기 입력을 구현했더라면.. 라는 생각이 들었습니다. 아직 내가 모르는게 많구나
 라는 생각이 드는 30일이였습니다.
 ```
+
+[빌드본 모음 바로가기](https://drive.google.com/drive/folders/1IQxjRwq5WdXQc13maVesWqy1DGmuRnj9?usp=sharing)
