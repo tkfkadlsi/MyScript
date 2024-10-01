@@ -81,4 +81,4 @@
 라는 생각이 드는 30일이였습니다.
 ```
 
-[빌드본 모음 바로가기](https://drive.google.com/drive/folders/1IQxjRwq5WdXQc13maVesWqy1DGmuRnj9?usp=sharing)
+[빌드본 모음 바로가기](http://naver.me/xX7c2WYy)
