@@ -1,7 +1,3 @@
-# MyScript
-지금까지 만든 게임들의 스크립트 파일 입니다. 
-[빌드본 모음 바로가기(구글 드라이브)](https://drive.google.com/drive/folders/1IQxjRwq5WdXQc13maVesWqy1DGmuRnj9?usp=sharing)
-
 # Notion
 간단하게 볼 수 있게 노션으로 정리했습니다.
 [노션 바로가기](https://dirt-pumpkin-f45.notion.site/15ec13a0c9ef800e95faf8641af4e650)
