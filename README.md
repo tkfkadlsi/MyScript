@@ -1,7 +1,3 @@
-# Notion
-간단하게 볼 수 있게 노션으로 정리했습니다.
-[노션 바로가기](https://dirt-pumpkin-f45.notion.site/1acc13a0c9ef805aaa3ee48de64bac23)
-
 ## 1학년 1학기
 ```
 1학년 1학기 동아리프로젝트 MobileTank 입니다.
